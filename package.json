@@ -1,0 +1,16 @@
+{
+  "name": "virtual-handshake",
+  "version": "1.0.0",
+  "description": "construct a virtual handshake across the world",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevin-roark/virtual-handshake.git"
+  },
+  "author": "kevin roark jr",
+  "dependencies": {
+    "serve": "1.4.0"
+  }
+}
